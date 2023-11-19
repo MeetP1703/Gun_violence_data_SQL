@@ -16,7 +16,7 @@ The Gun Violence Data SQL Project focuses on analyzing and extracting insights f
 5. [Queries](#queries)
 6. [Insights](#insights)
 7. [Getting Started](#getting-started)
-8. [Usage](#usage)
+8. [Application](#Application)
 9. [Contributing](#contributing)
 
 ## Introduction
